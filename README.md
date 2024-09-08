@@ -12,7 +12,7 @@ Imagina um álbum de figurinhas digital das maiores jogadoras de futebol feminin
 * HTML: A estrutura básica da página, como se fosse a ossatura de um prédio.
 * CSS: A parte que deixa tudo bonitinho e organizado, a decoração da casa!
 * JavaScript: O cérebro da aplicação, responsável por fazer tudo funcionar direitinho, como um mágico nos bastidores.
-* 
+  
 **Como usar?**
 
 1. **Clone o repositório:** Faça um download do projeto para o seu computador.
@@ -21,17 +21,18 @@ Imagina um álbum de figurinhas digital das maiores jogadoras de futebol feminin
    
 **O que você pode fazer?**
 
-Aprender: Descubra a história de jogadoras incríveis que fizeram história no futebol feminino.
-Se inspirar: Conheça as mulheres que estão quebrando barreiras e abrindo caminho para as próximas gerações.
-Compartilhar: Mostre para seus amigos e familiares a importância do futebol feminino.
-Contribua com o projeto!
+* Aprender: Descubra a história de jogadoras incríveis que fizeram história no futebol feminino.
+* Se inspirar: Conheça as mulheres que estão quebrando barreiras e abrindo caminho para as próximas gerações.
+* Compartilhar: Mostre para seus amigos e familiares a importância do futebol feminino.
+  
+**Contribua com o projeto!**
 
 **Quer ajudar a deixar a aplicação ainda mais incrível? Todo mundo é bem-vindo! Você pode:**
 
-Corrigir bugs: Achou algum erro? Nos avise!
-Adicionar novas jogadoras: Conhece alguma jogadora que não está na nossa lista? Adicione!
-Melhorar o design: Tem ideias para deixar a interface mais bonita? Compartilhe!
-Vamos juntas celebrar as pioneiras do futebol feminino!
+* Corrigir bugs: Achou algum erro? Nos avise!
+* Adicionar novas jogadoras: Conhece alguma jogadora que não está na nossa lista? Adicione!
+* Melhorar o design: Tem ideias para deixar a interface mais bonita? Compartilhe!
+**Vamos juntas celebrar as pioneiras do futebol feminino!**
 
 **Observações:**
 
