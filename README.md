@@ -1,4 +1,4 @@
-## Pioneras do Futebol: A Busca Que Vai Te Surpreender! ⚽ - Imersão Dev com o Google Gemini 
+## Pioneiras do Futebol: A Busca Que Vai Te Surpreender! ⚽ - Imersão Dev com o Google Gemini 
 O que é essa aplicação?
 
 Imagina um álbum de figurinhas digital das maiores jogadoras de futebol feminino da história! Essa aplicação te permite pesquisar por elas e descobrir curiosidades incríveis sobre suas carreiras. É como ter uma enciclopédia pessoal das rainhas do gramado!
